@@ -1,0 +1,54 @@
+{
+  "_from": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+  "_id": "tasks-js-dom-interfaces@1.0.0",
+  "_inBundle": false,
+  "_location": "/tasks-js-dom-interfaces",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+    "rawSpec": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+    "saveSpec": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+    "fetchSpec": "git://github.com/javascript-info/tasks-js-dom-interfaces.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#f1440133b2dafd78b393b6ceae548ccd661bf7a3",
+  "_spec": "git://github.com/javascript-info/tasks-js-dom-interfaces.git#master",
+  "_where": "/js/javascript-nodejs/handlers/automation",
+  "author": {
+    "name": "Artsiom Mezin"
+  },
+  "bugs": {
+    "url": "https://github.com/javascript-info/tasks-js-dom-interfaces/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Repo with tasks for JS/DOM/Interfaces",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "jasmine-core": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.4"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "homepage": "https://github.com/javascript-info/tasks-js-dom-interfaces#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "tasks-js-dom-interfaces",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javascript-info/tasks-js-dom-interfaces.git"
+  },
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "version": "1.0.0"
+}
